@@ -7,9 +7,7 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
-.tc-white {
-    color: white!important;
-}
+
 
 a,
 button {
@@ -681,7 +679,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 16px;
 }
 
 .tight-width-whitespace {
